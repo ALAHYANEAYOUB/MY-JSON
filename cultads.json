@@ -3,9 +3,9 @@
 		
 		"TypeAd":"admob",
 		"showNativeAdmob": true,
-		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-		"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-		"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		"BannerAdmob": "ca-app-pub-3674853831005989/1809293850",
+		"InterstitialAdmob": "ca-app-pub-3674853831005989/1200001331",
+		"NativeAdmob": "ca-app-pub-3674853831005989/7573837997",
 		"AdsClick": 2
 		
 	}
